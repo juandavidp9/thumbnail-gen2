@@ -8,6 +8,7 @@ It provides an intuitive interface for uploading images, adjusting thumbnail dim
 ![architecture](https://drive.google.com/uc?id=1QHcwubP07HWqoq01DK7NjINtIUzSJc32)
 
 The solution consists of a Streamlit app as the front-end interface, an AWS API Gateway as the entry point, an AWS Lambda function for generating thumbnails, and an AWS S3 bucket for optionally storing the thumbnails.
+
 The flow is as follows:
 
 1. Streamlit App: Uploads image, gets thumbnail settings, and sends base64-encoded image data to API Gateway.
