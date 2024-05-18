@@ -5,7 +5,7 @@ It provides an intuitive interface for uploading images, adjusting thumbnail dim
 
 ### Architecture 
 
-![architecture](https://drive.google.com/uc?id=1f5zoWYGpSjoY1YMEgcge8qeJ2SZ_VDAE)
+![architecture](https://drive.google.com/uc?id=1QHcwubP07HWqoq01DK7NjINtIUzSJc32)
 
 ## Features
 ●   Upload images in JPG, PNG, and JPEG formats.  
